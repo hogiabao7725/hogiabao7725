@@ -5,7 +5,7 @@
 
 ## 💫 About Me
 
-<img align="right" height="160" src="https://cdn-images-1.medium.com/v2/resize:fit:1600/1*v17RQNCVOAK55zB3YWN-Yg.gif" />
+<img align="right" height="170" src="assets/go_fix_bug.gif" />
 
 - 💻 I'm currently a student focusing on **backend development**  
 - 🚀 Learning and building with **Java**, **Spring Boot**, and **Go (Golang)**  
