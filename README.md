@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ho Gia Bao</h1>
-<h3 align="center">A backend student developer passionate about Java & Spring Boot</h3>
+<h3 align="center">A backend-focused student developer with a passion for building reliable systems using Java, Spring Boot, and Go</h3>
 
 ---
 
 ## 💫 About Me
 
-- 🎓 I’m currently a student learning **Java** and **Spring Boot** for backend development  
-- 🌱 Exploring **REST APIs**, databases, and basic system design  
-- 🤝 Open to collaborating on student projects or open-source backend tools  
-- 💬 Ask me about: Java basics, Spring Boot, and getting started with backend  
-- ⚡ Fun fact: Debugging weird bugs is oddly satisfying 😄
+<img align="right" height="160" src="https://cdn-images-1.medium.com/v2/resize:fit:1600/1*v17RQNCVOAK55zB3YWN-Yg.gif" />
+
+- 💻 I'm currently a student focusing on **backend development**  
+- 🚀 Learning and building with **Java**, **Spring Boot**, and **Go (Golang)**  
+- 🌱 Exploring concepts like **REST APIs**, databases, and system design  
+- 🤝 Open to collaborating on backend projects and open-source tools  
+- 💬 Ask me about: Java basics, Spring Boot, Go syntax, and backend fundamentals  
+- ⚡ Fun fact: I love clean code almost as much as solving annoying bugs 😄
 
 ---
 
