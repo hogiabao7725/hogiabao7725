@@ -65,9 +65,3 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=hogiabao7725&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hogiabao7725&label=Profile%20Views&color=6&icon=0&pretty=true" alt="Profile View Counter" />
-</p>
-
----
