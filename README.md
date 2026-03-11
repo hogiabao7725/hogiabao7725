@@ -1,13 +1,11 @@
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="65%" valign="middle" style="border: none;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=89B4FA&vCenter=true&width=500&lines=Hello%2C+I'm+Ho+Gia+Bao+%3D%29%29%29" alt="Typing SVG" />
-    </td>
-    <td width="35%" align="right" style="border: none;">
-      <img src="assets/go_fix_bug.gif" height="170" alt="coding gif" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="assets/go_fix_bug.gif" height="170" alt="coding gif" />
+
+<br>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=89B4FA&vCenter=true&width=500&lines=Hello%2C+I'm+Ho+Gia+Bao+%3D%29%29%29" alt="Typing SVG" />
+
+<br clear="both">
 
 ---
 
