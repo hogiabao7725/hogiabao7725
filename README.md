@@ -13,7 +13,7 @@
 
 <div style="border: none; padding: 0;">
   <p>🔭 I'm a student focusing on <b style="color:#89b4fa;">backend development</b> with <b style="color:#89b4fa;">Go</b> as my primary language.</p>
-  <p>🐍 Currently learning <b style="color:#89b4fa;">Python</b> as a second language and exploring <b style="color:#89b4fa;">data engineering</b> (Spark, Kafka).</p>
+  <p>☁️ Expanding into <b style="color:#89b4fa;">Cloud & Infrastructure</b> to build and deploy scalable backend systems.</p>
   <p>☕ Experienced in <b style="color:#89b4fa;">Java</b> and <b style="color:#89b4fa;">Spring Boot</b> for building enterprise applications.</p>
   <p>📘 Always eager to learn new technologies and improve system design skills.</p>
 </div>
@@ -53,10 +53,6 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Exploring**<br>
-![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ---
 
