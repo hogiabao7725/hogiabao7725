@@ -82,7 +82,6 @@
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/hogiabao7725/hogiabao7725/pacman-output/pacman-contribution-graph.svg"
   />
-
   <img
     alt="pacman contribution graph"
     src="https://raw.githubusercontent.com/hogiabao7725/hogiabao7725/pacman-output/pacman-contribution-graph.svg"
