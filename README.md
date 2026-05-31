@@ -12,70 +12,87 @@
 ## 👨‍💻 About Me
 
 <div style="border: none; padding: 0;">
-  <p>🔭 I'm a student focusing on <b style="color:#89b4fa;">backend development</b> with <b style="color:#89b4fa;">Go</b> as my primary language.</p>
-  <p>☁️ Expanding into <b style="color:#89b4fa;">Cloud & Infrastructure</b> to build and deploy scalable backend systems.</p>
-  <p>☕ Experienced in <b style="color:#89b4fa;">Java</b> and <b style="color:#89b4fa;">Spring Boot</b> for building enterprise applications.</p>
+  <p>🔭 I'm a student focusing on <b>backend development</b> with <b>Go</b> as my primary language.</p>
+  <p>☁️ Expanding into <b>Cloud & Infrastructure</b> to build and deploy scalable backend systems.</p>
+  <p>☕ Experienced in <b>Java</b> and <b>Spring Boot</b> for building enterprise applications.</p>
   <p>📘 Always eager to learn new technologies and improve system design skills.</p>
 </div>
 
 ---
 
-## 🌐 Connect
-
-<p align="left">
-  <a href="https://facebook.com/zzzz" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:hogiabao7725@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/hogiabao7725" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
-**Core**<br>
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+### Core
 
-**Databases**<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-**Tools & DevOps**<br>
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hogiabao7725&show_icons=true&theme=catppuccin_mocha&hide_border=true&title_color=89b4fa&icon_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&include_all_commits=false&count_private=false" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hogiabao7725&layout=compact&theme=catppuccin_mocha&hide_border=true&title_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e&langs_count=8" height="165" alt="Top Languages" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go" height="50" alt="go" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hogiabao7725&theme=catppuccin_mocha&hide_border=true&stroke=89b4fa&ring=89b4fa&fire=89b4fa&currStreakNum=89b4fa&sideLabels=cdd6f4&dates=cdd6f4&background=1e1e2e" height="165" alt="GitHub Streak" />
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql" />
+</p>
+
+### Infrastructure & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📊 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hogiabao7725&theme=catppuccin_mocha&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=1e1e2e&color=89b4fa&line=89b4fa&point=cdd6f4&title_color=89b4fa" width="100%"/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=hogiabao7725&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
+    height="190"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 🎮 Contribution Activity
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/hogiabao7725/hogiabao7725/pacman-output/pacman-contribution-graph-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/hogiabao7725/hogiabao7725/pacman-output/pacman-contribution-graph.svg"
+  />
+
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/hogiabao7725/hogiabao7725/pacman-output/pacman-contribution-graph.svg"
+  />
+</picture>
 
 ---
 
 <p align="center">
-  <i>"Project-related bugs would not exist if the project itself didn't exist."</i> <br>
-  <code style="color:#89b4fa;">if (project == null) { bugs = 0; }</code> 🐧
+  <i>"Project-related bugs would not exist if the project itself didn't exist."</i>
+  <br>
+  <code>if (project == null) { bugs = 0; }</code> 🐧
 </p>
