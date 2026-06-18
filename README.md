@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <div style="border: none; padding: 0;">
   <p>🔭 I'm a student focusing on <b>backend development</b> with <b>Go</b> as my primary language.</p>
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Core
 
@@ -58,7 +58,7 @@
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img
@@ -68,9 +68,7 @@
   />
 </p>
 
----
-
-## 🎮 Contribution Activity
+<br>
 
 <picture>
   <source
