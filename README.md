@@ -9,82 +9,49 @@
 
 ---
 
-## About Me
-
-<div style="border: none; padding: 0;">
-  <p>🔭 I'm a student focusing on <b>backend development</b> with <b>Go</b> as my primary language.</p>
-  <p>☁️ Expanding into <b>Cloud & Infrastructure</b> to build and deploy scalable backend systems.</p>
-  <p>☕ Experienced in <b>Java</b> and <b>Spring Boot</b> for building enterprise applications.</p>
-  <p>📘 Always eager to learn new technologies and improve system design skills.</p>
-</div>
-
----
-
 ## Tech Stack
 
-### Core
+### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go" height="50" alt="go" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
 </p>
 
 ### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
 </p>
 
 ### Infrastructure & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
 </p>
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=hogiabao7725&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
-    height="190"
-    alt="GitHub Streak"
-  />
-</p>
-
-<br>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/hogiabao7725/hogiabao7725/pacman-output/pacman-contribution-graph-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/hogiabao7725/hogiabao7725/pacman-output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/hogiabao7725/hogiabao7725/pacman-output/pacman-contribution-graph.svg"
-  />
-</picture>
 
 ---
 
